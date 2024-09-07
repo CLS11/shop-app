@@ -4,11 +4,11 @@ import 'package:myapp/themes/light_mode.dart';
 import 'package:myapp/pages/shop_page.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const ShopApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class ShopApp extends StatelessWidget {
+  const ShopApp({super.key});
 
   @override
   Widget build(BuildContext context) {
