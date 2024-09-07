@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:ecommerce/components/button.dart';
 import 'package:ecommerce/components/list_tile.dart';
 import 'package:ecommerce/pages/intro_page.dart';
 
