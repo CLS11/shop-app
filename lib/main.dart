@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/pages/intro_page.dart';
-import 'package:myapp/themes/light_mode.dart';
-import 'package:myapp/pages/shop_page.dart';
+import 'package:ecommerce/pages/intro_page.dart';
+import 'package:ecommerce/themes/light_mode.dart';
+import 'package:ecommerce/pages/shop_page.dart';
 
 void main() {
   runApp(const ShopApp());

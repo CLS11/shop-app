@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/components/button.dart';
+import 'package:ecommerce/components/button.dart';
 
 class IntroPage extends StatelessWidget {
   const IntroPage({super.key});
